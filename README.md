@@ -1,2 +1,2 @@
-# RICA_INC_FREN
-Rica incorporation french version
+# RICA-INC
+The RICA INC application for selling online and advertising their services
